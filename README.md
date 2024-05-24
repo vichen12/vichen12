@@ -1,7 +1,14 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+<td width="50%" align="center">
+  <img align="center" alt="Coding"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  </td>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
-## Hi! I'm Vincenzo 👋
+### Hey,[ I'am Vincenzo](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
+
 
 ### 🌟 Professional Profile
 I am Vincenzo Dallape, a passionate 20-year-old Systems Engineering student at UTN. My academic background and constant interest in software development have led me to specialize in front-end and back-end areas, where I am currently in the process of learning and perfecting my skills.
