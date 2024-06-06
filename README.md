@@ -59,16 +59,20 @@ Ongoing course with a focus on software development and integrated systems.
 ### 🎯 Professional Objectives
 My goal is to continue growing as a full-stack developer, contributing to innovative and challenging projects that allow me to apply and expand my knowledge in web development technologies. I am committed to continuous learning and the constant improvement of my technical and professional skills.
 
-<section align="center">
-  <h2>📬 Contact:</h2>
-  <a href="mailto:vichendallape@gmail.com">
-    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="50">
-  </a>
-  <a href="https://www.linkedin.com/in/vincenzo-dallape-50a426304/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50">
-  </a>
-  <a href="https://web.telegram.org/k/#-1203933567">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="Telegram" width="50">
-  </a>
-</section>
+<h3 align="left"> 📫 Contact Me</h3>
+
+<p >
+  <a href="https://www.linkedin.com/in/vincenzo-dallape-50a426304/" target="_blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Vincenzo Dallape" height="30" width="40" /></a>
+  
+  <a href="https://www.instagram.com/vichendallape/" target="_blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Vichendallape" height="30" width="40" /></a>
+ 
+  <a href="https://x.com/Vichendalla" target="_blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="Vichendalla" height="30" width="40" /></a>
+</p>
+
 
