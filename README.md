@@ -11,7 +11,7 @@
 
 
 ### 🌟 Professional Profile
-I am Vincenzo Dallape, a passionate 20-year-old Systems Engineering student at UTN. My academic background and constant interest in software development have led me to specialize in front-end and back-end areas, where I am currently in the process of learning and perfecting my skills.
+I am Vincenzo Dallape, a passionate 22-year-old Systems Engineering student at UTN. My academic background and constant interest in software development have led me to specialize in front-end and back-end areas, where I am currently in the process of learning and perfecting my skills.
 
 ### 🎓 Academic Background
 **Systems Engineering** | National Technological University (UTN)  
