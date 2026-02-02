@@ -36,14 +36,13 @@ I am a 22-year-old **Systems Engineering** student at UTN Mendoza, currently in 
 ---
 
 ### 🏗️ Featured Projects
-- 🚛 **[Rutas del Sur ERP](https://rutasdelsur.netlify.app/)**: Full-stack solution for logistics management (Next.js + Supabase).
 - 📁 **[Personal Portfolio](https://vincenzodallape.netlify.app/)**: My professional showcase built with React.
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://metrics.lecoq.io/vichen12?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=America/Argentina/Buenos_Aires" alt="Vincenzo Metrics" width="100%">
+  <img src="https://metrics.lecoq.io/vichen12?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&config.timezone=America/Argentina/Buenos_Aires"  width="100%">
 </p>
 
 ---
