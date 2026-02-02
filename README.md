@@ -7,11 +7,11 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="giphy">
 
 ### 🌟 Professional Profile
-I am a 22-year-old **Systems Engineering** student at UTN Mendoza, currently in my final year. I work as a **Freelance Web Developer**, focusing on building scalable web applications and exploring the intersection of **Cybersecurity** and **Domotics**.
+I am a 22-year-old **Systems Engineering** student at UTN Mendoza, currently in my final year. I work as a **Freelance Web Developer**, specializing in building modern web applications and exploring **Cybersecurity** and **Domotics**.
 
-- 🔭 **Currently working on:** A custom ERP for a transportation company (Rutas del Sur) using **Next.js** and **Supabase**.
-- 🔐 **Learning:** Advanced network security and home automation systems.
-- ⚡ **Fun fact:** I'm passionate about optimizing workflows and automating everything that can be automated.
+- 🚀 **Currently building:** A custom ERP for **Rutas del Sur** (Logistics) using **Next.js** and **Supabase**.
+- 🔐 **Focusing on:** Secure authentication, database optimization, and home automation.
+- ⚙️ **Goal:** Engineering efficient, scalable, and secure digital solutions.
 
 ---
 
@@ -23,31 +23,26 @@ I am a 22-year-old **Systems Engineering** student at UTN Mendoza, currently in 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 #### ⚙️ Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-#### 🛠️ Tools & Specialties
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Home_Automation-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vichen12B&show_icons=true&theme=tokyonight&count_private=true" alt="Vincenzo's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichen12&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vichen12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Vincenzo's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichen12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vichen12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
