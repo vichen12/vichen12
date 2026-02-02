@@ -36,10 +36,7 @@ I am a 22-year-old **Systems Engineering** student at UTN Mendoza, currently in 
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vichen12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Vincenzo's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichen12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vichen12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
