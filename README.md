@@ -1,78 +1,66 @@
-<!--suppress HtmlDeprecatedAttribute -->
-<td width="50%" align="center">
-  <img align="center" alt="Coding"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-  </td>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
+# Hey, I'm Vincenzo Dallapé <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Hey,[ I'am Vincenzo]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Engineering+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;Home+Automation+Learner&center=false&width=500&height=45&color=007ACC&size=22">
 </p>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="giphy">
 
 ### 🌟 Professional Profile
-I am Vincenzo Dallape, a passionate 22-year-old Systems Engineering student at UTN. My academic background and constant interest in software development have led me to specialize in front-end and back-end areas, where I am currently in the process of learning and perfecting my skills.
+I am a 22-year-old **Systems Engineering** student at UTN Mendoza, currently in my final year. I work as a **Freelance Web Developer**, focusing on building scalable web applications and exploring the intersection of **Cybersecurity** and **Domotics**.
 
-### 🎓 Academic Background
-**Systems Engineering** | National Technological University (UTN)  
-Ongoing course with a focus on software development and integrated systems.
+- 🔭 **Currently working on:** A custom ERP for a transportation company (Rutas del Sur) using **Next.js** and **Supabase**.
+- 🔐 **Learning:** Advanced network security and home automation systems.
+- ⚡ **Fun fact:** I'm passionate about optimizing workflows and automating everything that can be automated.
 
-### 💼 Areas of Specialization
+---
 
-#### 🖥️ Front-End Development
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem" alt="HTML5"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem" alt="CSS3"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem" alt="JavaScript"/></td>
-  </tr>
-  </table>
-  
-#### 📚 Frameworks and Libraries
+### 🚀 Tech Stack
 
-<table>
-  <tr>
-    <td><img width="80px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React"/></td>
-    <td><img width="80px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular"/></td>
-  </tr>
-</table>
-
-#### 🗃️ Databases
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem; background-color:white" alt="MongoDB"/></td>
-    <td><img height="60px" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL"/></td>
-    <td><img height="100px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSQL"/></td>
-  </tr>
-</table>
-
-### 🔧 Languages and Tools
-<table>
-  <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></td>
-    <td><img height="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem" alt="Git"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white" alt="GitHub"/></td>
-  </tr>
-</table>
-
-### 🎯 Professional Objectives
-My goal is to continue growing as a full-stack developer, contributing to innovative and challenging projects that allow me to apply and expand my knowledge in web development technologies. I am committed to continuous learning and the constant improvement of my technical and professional skills.
-
-<h3 align="left"> 📫 Contact Me</h3>
-
-<p >
-  <a href="https://www.linkedin.com/in/vincenzo-dallape-50a426304/" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Vincenzo Dallape" height="30" width="40" /></a>
-  
-  <a href="https://www.instagram.com/vichendallape/" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Vichendallape" height="30" width="40" /></a>
- 
-  <a href="https://x.com/Vichendalla" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Vichendalla" height="30" width="40" /></a>
+#### 🖥️ Frontend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+#### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
+#### 🛠️ Tools & Specialties
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Home_Automation-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Vincenzo's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/vincenzo-dallape-50a426304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Vichendalla" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/vichendallape/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
