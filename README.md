@@ -5,7 +5,7 @@
 </p>
 
 ### 🌟 About Me
-I am a 22-year-old **Systems Engineering** student at UTN Mendoza, currently in my final year. I work as a **Freelance Web Developer**, building modern solutions and expanding my expertise into the worlds of **Cybersecurity** and **Domotics**.
+I am a 23-year-old **Systems Engineering** student at UTN Mendoza, currently in my final year. I work as a **Freelance Web Developer**, building modern solutions and expanding my expertise into the worlds of **Cybersecurity** and **Domotics**.
 
 - 🚀 **Currently building:** A custom ERP for logistics management using **Next.js** and **Supabase**.
 - 🌱 **Learning:** Network security, penetration testing, and smart home automation.
